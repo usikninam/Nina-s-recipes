@@ -1,0 +1,35 @@
+
+![[4743280B-4B48-4730-B50D-1DA064AC8A13_1_105_c.jpeg]]
+
+https://youtube.com/shorts/Repbx1neqZ0?si=f6z46pfwaPX8pgTA
+
+---
+Section 1:
+- [ ] 450g brussel sprouts
+- [ ] 450g sweet potatoes
+- [ ] 450g natural apple chicken sausage (JBB parówki tęczowe)
+![[5C9E5A93-1187-4824-BCC1-0CD3B199D556_1_105_c.jpeg]]
+- [ ] 20g olive oil
+- [ ] black pepper
+- [ ] salt
+- [ ] garlic powder
+- [ ] chili flakes
+Section 2:
+- [ ] 300g (= 1 big) apple
+- [ ] 100 g walnuts
+- [ ] cinnamon
+Optional dressing
+- [ ] 1 tbsp honey
+- [ ] 1 tsp chili oil
+- [ ] 1 tsp water
+
+1. Cut and mix all from 'Section 1' put on a baking tray at 190 °C for 35 min
+![[2987D69E-7572-4638-9382-981E663D641E_1_105_c.jpeg]]
+2. Cut and mix 'Section 2', add to other baked mixture bake for additional 10-15 min
+![[1E43A8E0-65CB-4085-8D21-53B78BCB3D8F_1_105_c.jpeg]]
+![[D42A0D9B-23EE-4D42-822A-783219C9940C_1_105_c.jpeg]]
+3. Optionally add dressing
+---
+Calories for entire batch, (keep an eye on oil, it is used in multiple places, I summed it up)
+
+![[IMG_0081.jpeg]]
