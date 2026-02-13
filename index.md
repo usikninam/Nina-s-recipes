@@ -17,7 +17,7 @@ A collection of recipes.
         and page.name != "index.md"
         and page.name != "README.md" %}
     <li>
-      <a href="{{ page.url }}">
+      <a href="{{ page.url | prepend: site.baseurl }}">
         {{ page.name | replace: ".md","" }}
       </a>
     </li>
