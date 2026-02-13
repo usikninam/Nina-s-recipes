@@ -16,9 +16,9 @@ For one portion of white dough to make ==19 dumplings with potato== you need exa
 300g of potato
 1 large onion (2/3 with potato for filling, 1/3 for topping)
 10g olive oil to fry onion
-![[IMG_0587.jpeg]]
+![](<{{ site.baseurl }}/img/IMG_0587.jpeg>)
 
-![[IMG_0588.jpeg]]
+![](<{{ site.baseurl }}/img/IMG_0588.jpeg>)
 
-![[IMG_0589.jpeg]]
-![[IMG_0590.jpeg]]
+![](<{{ site.baseurl }}/img/IMG_0589.jpeg>)
+![](<{{ site.baseurl }}/img/IMG_0590.jpeg>)

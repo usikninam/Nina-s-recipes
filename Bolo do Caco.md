@@ -1,4 +1,4 @@
-![[Pasted image 20240926095048.png]]1st = 483kcal (recipe for 5 pieces)
+![](<{{ site.baseurl }}/img/Pasted image 20240926095048.png>)1st = 483kcal (recipe for 5 pieces)
 
 - [ ] 500 g flower
 - [ ] 350 g purple sweet potato

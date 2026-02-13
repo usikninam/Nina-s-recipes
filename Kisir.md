@@ -1,7 +1,7 @@
 Sinem Arslan recipe
 
-![[Pasted image 20250320180546.png]]
-![[Pasted image 20250320180818.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20250320180546.png>)
+![](<{{ site.baseurl }}/img/Pasted image 20250320180818.png>)
 
 - [ ] 400g (2 glass of) bulgur (+4 glass (1 liter) of boiling water)
 
@@ -25,8 +25,8 @@ Sinem Arslan recipe
 
 1. Mix bulgur and hot water and cover the top. Wait for 15 min (until the water has disappeared)
 2. Mix spices with bulgur (like making a dough, until bulgur gets soft) If you have you can also add pomegranate syrup 
-![[Pasted image 20250320181022.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20250320181022.png>)
 3. Chop thinly the rest of the ingredients and add them.
 
 (calories for half of the recipe)
-![[Pasted image 20250320074918.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20250320074918.png>)

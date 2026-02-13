@@ -1,8 +1,8 @@
-![[Pasted image 20240926102457.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20240926102457.png>)
 według Karola Okrasy (“Ryby są super” str.188)
 
-![[Pasted image 20250401093228.png]]
-![[Pasted image 20250401093240.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20250401093228.png>)
+![](<{{ site.baseurl }}/img/Pasted image 20250401093240.png>)
 
 - [ ] 2 dorady
 - [ ] 1 cytryna

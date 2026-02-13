@@ -1,4 +1,4 @@
-![[Pasted image 20240926160325.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20240926160325.png>)
 
 https://youtu.be/fYBRZjkDxVk?t=791
 

@@ -1,4 +1,4 @@
-![[Pasted image 20240926160055.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20240926160055.png>)
 
 https://preppykitchen.com/creme-brulee/
 

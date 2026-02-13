@@ -1,4 +1,4 @@
-![[Pasted image 20240926095214.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20240926095214.png>)
 https://youtu.be/H0n_jfydU4U
 
 - [ ] 1,5 kg side of salmon , skin on, scaled, pin-boned, from sustainable sources

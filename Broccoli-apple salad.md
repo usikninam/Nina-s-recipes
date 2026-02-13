@@ -1,4 +1,4 @@
-![[Pasted image 20240926104215.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20240926104215.png>)
 https://www.cookingclassy.com/broccoli-apple-salad/
 
 350 g broccoli
@@ -19,4 +19,4 @@ salt
 2. In a salad bowl toss together broccoli, apples, walnuts, carrots, raisins or cranberries and red onion. Pour in dressing and toss until evenly coated.
 
 (calories for full recipe)
-![[Pasted image 20250320200227.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20250320200227.png>)

@@ -1,4 +1,4 @@
-![[Pasted image 20240926103343.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20240926103343.png>)
 
 https://www.instagram.com/p/Bq_-nGDhh-l/ https://www.youtube.com/watch?v=C1A_2TyNRpQ&list=PLoUC-xcucYqZQbUnX4UTE3H5j_At9wV5u
 
