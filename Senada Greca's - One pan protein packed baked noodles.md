@@ -1,7 +1,7 @@
 
 ![[A089A1D4-5D55-4AE0-8845-63335D6F7247_1_105_c.jpeg]]
 
-https://www.youtube.com/shorts/TUGKehlgcPk?feature=share
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TUGKehlgcPk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ---
 ==‼️ Note: Tasty and easy to do. Do correction: Add less coconuy milk (half, too heavy, substitute with water so that everything is boiled), more veggies (triple). Recalculate calories and replace screenshot for it.==

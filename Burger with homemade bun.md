@@ -1,6 +1,6 @@
 ![](<{{ site.baseurl }}/img/Pasted image 20240926103627.png>)
 
-https://youtu.be/gTGSUYMu6Ns
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gTGSUYMu6Ns" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 Bun 1st = 144 kcal
 Burger(with bun) 1st = 654 kcal
@@ -40,7 +40,7 @@ Egg wash:
 - [ ] iceberg lettuce
 
 **Bun:**
-https://youtu.be/gTGSUYMu6Ns
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gTGSUYMu6Ns" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 1. Tangzhong: Mix milk, water and bread flour. Continuously mix it on medium hit until it thickens.
 2. Heat milk to 35 degrees and add instant yeast. Let that sit for about 8 minutes.
 3. Mix flour, sugar, salt. Whisk. Add Milk-yeast mixture in a few minets of mixing add that tangzhong and egg and egg yolk. Mix well.
@@ -55,6 +55,6 @@ https://youtu.be/gTGSUYMu6Ns
 12. Cut and _**toast**_ them on the pan to make a burger.
 
 **Burger Sauce:**
-https://youtu.be/3f0vm1k2SmI?t=212
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3f0vm1k2SmI?start=212" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 1. Caramelize onion with butter, salt and a pinch of sugar. It will take 30 minutes.
 2. Mix all sauce ingredients with the onion.

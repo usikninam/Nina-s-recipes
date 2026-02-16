@@ -1,5 +1,5 @@
 ![[F973F627-1D32-43CE-BE54-B8B211C0270E_1_105_c.jpeg]]
-[https://www.youtube.com/shorts/U4xfIbVOigw](https://www.youtube.com/shorts/U4xfIbVOigw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U4xfIbVOigw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ---
 - [ ] 250g kale

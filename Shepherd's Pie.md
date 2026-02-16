@@ -1,4 +1,4 @@
-https://youtu.be/M_GNznvIN1E
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M_GNznvIN1E" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 - [ ] 0.5 кг фарш из баранины
 - [ ] 1 лук

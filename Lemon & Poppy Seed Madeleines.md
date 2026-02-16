@@ -1,6 +1,6 @@
 ![[Pasted image 20240926160449.png]]
 
-https://www.youtube.com/watch?v=jTi8-_ykIx0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jTi8-_ykIx0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 - [ ] 3 medium eggs
 - [ ] 80g caster sugar

@@ -1,6 +1,6 @@
 ![[Pasted image 20240926163741.png]]
 
-https://youtu.be/q9b2t0dQ_AQ?t=190
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q9b2t0dQ_AQ?start=190" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 **Dressing:**
 

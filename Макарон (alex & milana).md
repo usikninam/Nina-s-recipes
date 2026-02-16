@@ -1,6 +1,6 @@
 ![[Pasted image 20240926163019.png]]
 
-https://www.youtube.com/watch?v=cyMnRuM4SHo&t=7s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cyMnRuM4SHo?start=7" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 <aside>* Шапочки уже по этому рецепту готовила, отлично получились. Крем делала с маслом грецкого ореха, попробовать с тем маслом. Шоколадная начинка Стасу не очень нравиться, она перебивает вкус миндаля
 </aside>

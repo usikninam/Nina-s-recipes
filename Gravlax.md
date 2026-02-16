@@ -1,5 +1,5 @@
 ![](<{{ site.baseurl }}/img/Pasted image 20240926095214.png>)
-https://youtu.be/H0n_jfydU4U
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H0n_jfydU4U" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 - [ ] 1,5 kg side of salmon , skin on, scaled, pin-boned, from sustainable sources
 - [ ] 2 raw beets

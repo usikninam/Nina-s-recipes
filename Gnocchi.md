@@ -1,7 +1,7 @@
 ![](<{{ site.baseurl }}/img/7A44BB87-CF23-49FF-ABEA-9FABE0821D10_1_102_o.jpeg>)
 ![](<{{ site.baseurl }}/img/33FC89EF-16F9-4073-9800-2B19C4AD414E_1_105_c.jpeg>)
 
-https://www.youtube.com/watch?v=mOKBV-0Lts8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mOKBV-0Lts8" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 - [ ] 600g potatoes
 - [ ] 200g semolina flour (for sweet potato more flour is needed not 3:1, but 2,5:1 e.g. 100g sweet potato 40g semola)

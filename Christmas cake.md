@@ -1,6 +1,7 @@
 ![](<{{ site.baseurl }}/img/Pasted image 20240926103343.png>)
 
-https://www.instagram.com/p/Bq_-nGDhh-l/ https://www.youtube.com/watch?v=C1A_2TyNRpQ&list=PLoUC-xcucYqZQbUnX4UTE3H5j_At9wV5u
+https://www.instagram.com/p/Bq_-nGDhh-l/
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C1A_2TyNRpQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 - [ ] 2 яйца
 - [ ] 220гр(вполне достаточно 200гр) сахара, лучше тростникового

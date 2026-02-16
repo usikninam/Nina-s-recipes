@@ -1,6 +1,6 @@
 ![[Pasted image 20240926100217.png]]
 
-https://youtu.be/175UxICMvrQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/175UxICMvrQ" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 lisbon sauce:
 - [ ] 1 bell pepper

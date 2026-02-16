@@ -1,6 +1,6 @@
 ![[1C003946-42EF-4EB9-8CE3-7D3FA5F3BF83_1_102_o.jpeg]]
 
-https://youtu.be/du1xNHYIIEM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/du1xNHYIIEM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ---
 - [ ] 230g pasta of choice

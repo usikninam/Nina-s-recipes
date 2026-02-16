@@ -1,7 +1,7 @@
 
 ![[9C602FDF-1549-493C-B921-47FFA5FF31BC_1_105_c.jpeg]]
 
-https://www.youtube.com/shorts/iE8ZyoBxFsE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iE8ZyoBxFsE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ---
 
