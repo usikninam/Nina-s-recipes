@@ -1,4 +1,9 @@
-![[8010B4D0-E93D-4968-B377-7A4127C4A736_1_105_c.jpeg]]
+---
+title: Olivier salad
+image: "/img/8010B4D0-E93D-4968-B377-7A4127C4A736_1_105_c.jpeg"
+---
+
+![](<{{ site.baseurl }}/img/8010B4D0-E93D-4968-B377-7A4127C4A736_1_105_c.jpeg>)
 
 ---
 - [ ] 230g canned peas
@@ -15,4 +20,4 @@
 3. Mix everything together
 ---
 Calories for entire recipe - 1985kcal
-![[Pasted image 20250716132326.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20250716132326.png>)

@@ -1,3 +1,8 @@
+---
+title: Broccoli-apple salad
+image: "/img/Pasted image 20240926104215.png"
+---
+
 ![](<{{ site.baseurl }}/img/Pasted image 20240926104215.png>)
 https://www.cookingclassy.com/broccoli-apple-salad/
 

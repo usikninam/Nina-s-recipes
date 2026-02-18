@@ -1,4 +1,9 @@
-![[Pasted image 20240926102123.png]]
+---
+title: Taart pastry
+image: "/img/Pasted image 20240926102123.png"
+---
+
+![](<{{ site.baseurl }}/img/Pasted image 20240926102123.png>)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-oaqAwaLgvw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 

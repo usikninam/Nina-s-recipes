@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<header class="home-hero">
+  <a href="{{ site.baseurl }}/" class="hero-brand">{{ site.title }}</a>
+  <div class="search-wrap">
+    <input
+      type="search"
+      id="search-input"
+      class="search-input"
+      placeholder="Search recipes and ingredients…"
+      autocomplete="off"
+      spellcheck="false"
+    >
+  </div>
+  <p class="hero-count"><span id="result-count"></span></p>
+</header>
+
+<section class="recipe-grid-section">
+  <div class="recipe-grid">
+    {% assign all_pages = site.pages | sort: 'name' %}
+    {% for p in all_pages %}
+      {% if p.name contains '.md' and p.name != 'index.md' and p.name != 'README.md' %}
+        {% assign display_title = p.title | default: p.name | remove: '.md' %}
+        <a href="{{ p.url | prepend: site.baseurl }}" class="recipe-card" data-url="{{ p.url | prepend: site.baseurl }}">
+          <div class="card-image{% unless p.image %} card-no-image{% endunless %}">
+            {% if p.image %}
+              <img src="{{ p.image | prepend: site.baseurl }}" alt="{{ display_title }}" loading="lazy">
+            {% else %}
+              <div class="card-placeholder">
+                <span class="card-name-placeholder">{{ display_title }}</span>
+              </div>
+            {% endif %}
+          </div>
+          <div class="card-body">
+            <h2 class="card-title">{{ display_title }}</h2>
+          </div>
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>

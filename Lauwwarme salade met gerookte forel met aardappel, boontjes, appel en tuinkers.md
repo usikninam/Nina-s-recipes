@@ -1,3 +1,8 @@
+---
+title: Lauwwarme salade met gerookte forel met aardappel, boontjes, appel en tuinkers
+image: "/img/Pasted image 20240926161248.png"
+---
+
 ![](<{{ site.baseurl }}/img/Pasted image 20240926161248.png>)
 
 https://www.hellofresh.nl/recipes/lauwwarme-salade-met-gerookte-forel-5ad0bb03ae08b522fe01a7e4/

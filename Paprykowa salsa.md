@@ -1,7 +1,12 @@
-![[Pasted image 20240926103221.png]]
+---
+title: Paprykowa salsa
+image: "/img/Pasted image 20240926103221.png"
+---
+
+![](<{{ site.baseurl }}/img/Pasted image 20240926103221.png>)
 według Karola Okrasy (“Ryby są super” str.143)
-![[Pasted image 20250401093148.png]]
-![[Pasted image 20250401093158.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20250401093148.png>)
+![](<{{ site.baseurl }}/img/Pasted image 20250401093158.png>)
 
 - [ ] 4 (=606g) czerwone papryki
 - [ ] 70 g suszonych śliwek

@@ -1,4 +1,9 @@
-![[Pasted image 20240926163741.png]]
+---
+title: Will Tennyson salad
+image: "/img/Pasted image 20240926163741.png"
+---
+
+![](<{{ site.baseurl }}/img/Pasted image 20240926163741.png>)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q9b2t0dQ_AQ?start=190" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 

@@ -1,3 +1,8 @@
+---
+title: Filet z dorsza z boben i pieczarkami w sosie limonkowym
+image: "/img/Pasted image 20250401092255.png"
+---
+
 ![](<{{ site.baseurl }}/img/Pasted image 20250401092255.png>)
 ![](<{{ site.baseurl }}/img/Pasted image 20250401092226.png>)
 

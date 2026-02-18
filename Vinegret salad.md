@@ -1,4 +1,9 @@
-![[9730C6B8-D2FE-44B8-89F6-01F7803B0FD9_1_105_c.jpeg]]
+---
+title: Vinegret salad
+image: "/img/9730C6B8-D2FE-44B8-89F6-01F7803B0FD9_1_105_c.jpeg"
+---
+
+![](<{{ site.baseurl }}/img/9730C6B8-D2FE-44B8-89F6-01F7803B0FD9_1_105_c.jpeg>)
 
 - [ ] 500g boiled biet root
 - [ ] 300g raw carrot
@@ -16,4 +21,4 @@
 ---
 
 Total recipy calories 1189kcal
-![[Pasted image 20250626191353.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20250626191353.png>)

@@ -1,3 +1,8 @@
+---
+title: Christmas cake
+image: "/img/Pasted image 20240926103343.png"
+---
+
 ![](<{{ site.baseurl }}/img/Pasted image 20240926103343.png>)
 
 https://www.instagram.com/p/Bq_-nGDhh-l/

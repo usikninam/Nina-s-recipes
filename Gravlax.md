@@ -1,3 +1,8 @@
+---
+title: Gravlax
+image: "/img/Pasted image 20240926095214.png"
+---
+
 ![](<{{ site.baseurl }}/img/Pasted image 20240926095214.png>)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H0n_jfydU4U" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 

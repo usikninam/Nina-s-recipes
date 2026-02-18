@@ -1,4 +1,9 @@
-![[Pasted image 20240926163019.png]]
+---
+title: Макарон (alex & milana)
+image: "/img/Pasted image 20240926163019.png"
+---
+
+![](<{{ site.baseurl }}/img/Pasted image 20240926163019.png>)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cyMnRuM4SHo?start=7" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 

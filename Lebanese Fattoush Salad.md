@@ -1,5 +1,10 @@
+---
+title: Lebanese Fattoush Salad
+image: "/img/9C602FDF-1549-493C-B921-47FFA5FF31BC_1_105_c.jpeg"
+---
 
-![[9C602FDF-1549-493C-B921-47FFA5FF31BC_1_105_c.jpeg]]
+
+![](<{{ site.baseurl }}/img/9C602FDF-1549-493C-B921-47FFA5FF31BC_1_105_c.jpeg>)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iE8ZyoBxFsE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
@@ -32,4 +37,4 @@ dressing
 
 ---
 
-![[Pasted image 20250407100748.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20250407100748.png>)

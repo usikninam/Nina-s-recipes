@@ -1,4 +1,9 @@
-![[1C003946-42EF-4EB9-8CE3-7D3FA5F3BF83_1_102_o.jpeg]]
+---
+title: Thousand Pea Pasta (was a best seller at my deli)
+image: "/img/1C003946-42EF-4EB9-8CE3-7D3FA5F3BF83_1_102_o.jpeg"
+---
+
+![](<{{ site.baseurl }}/img/1C003946-42EF-4EB9-8CE3-7D3FA5F3BF83_1_102_o.jpeg>)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/du1xNHYIIEM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
@@ -19,4 +24,4 @@
 - 
 ---
 
-![[Pasted image 20250717122554.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20250717122554.png>)

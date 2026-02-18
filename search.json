@@ -1,0 +1,17 @@
+---
+layout: none
+---
+[
+  {% assign comma = "" %}
+  {% assign all_pages = site.pages | sort: 'name' %}
+  {% for p in all_pages %}
+    {% if p.name contains '.md' and p.name != 'index.md' and p.name != 'README.md' %}
+    {{ comma }}{
+      "title": {{ p.title | default: p.name | remove: ".md" | jsonify }},
+      "url": {{ p.url | prepend: site.baseurl | jsonify }},
+      "content": {{ p.content | strip_html | normalize_whitespace | jsonify }}
+    }
+    {% assign comma = "," %}
+    {% endif %}
+  {% endfor %}
+]

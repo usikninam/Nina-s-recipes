@@ -1,3 +1,8 @@
+---
+title: Burger with homemade bun
+image: "/img/Pasted image 20240926103627.png"
+---
+
 ![](<{{ site.baseurl }}/img/Pasted image 20240926103627.png>)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gTGSUYMu6Ns" title="YouTube video player" frameborder="0" allowfullscreen></iframe>

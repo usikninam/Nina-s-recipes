@@ -1,3 +1,8 @@
+---
+title: Halloumi and watermelon salad
+image: "/img/Pasted image 20240926154852.png"
+---
+
 ![](<{{ site.baseurl }}/img/Pasted image 20240926154852.png>)
 
 https://www.olivemagazine.com/recipes/vegetarian/halloumi-and-watermelon-salad/

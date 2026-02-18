@@ -1,4 +1,9 @@
-![[Pasted image 20240926160859.png]]
+---
+title: Salmon rillettes
+image: "/img/Pasted image 20240926160859.png"
+---
+
+![](<{{ site.baseurl }}/img/Pasted image 20240926160859.png>)
 
 - [ ] Fresh salmon fillet 500g
 - [ ] Smoked salmon 200 g

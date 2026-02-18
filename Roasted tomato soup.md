@@ -1,4 +1,9 @@
-![[Pasted image 20240926161050.png]]
+---
+title: Roasted tomato soup
+image: "/img/Pasted image 20240926161050.png"
+---
+
+![](<{{ site.baseurl }}/img/Pasted image 20240926161050.png>)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9SGo52knhU" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 

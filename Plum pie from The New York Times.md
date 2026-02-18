@@ -1,4 +1,9 @@
-![[Pasted image 20240926102721.png]]
+---
+title: Plum pie from The New York Times
+image: "/img/Pasted image 20240926102721.png"
+---
+
+![](<{{ site.baseurl }}/img/Pasted image 20240926102721.png>)
 
 https://cooking.nytimes.com/recipes/3783-original-plum-torte
 

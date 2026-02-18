@@ -1,4 +1,9 @@
-![[Pasted image 20240926095538.png]]
+---
+title: Żurek na zakwasie
+image: "/img/Pasted image 20240926095538.png"
+---
+
+![](<{{ site.baseurl }}/img/Pasted image 20240926095538.png>)
 
 zakwas na żurek:
 - [ ] 1 szklanka (120 g) żytniej mąki razowej

@@ -1,4 +1,9 @@
-![[Pasted image 20240926101530.png]]
+---
+title: Lemon taart
+image: "/img/Pasted image 20240926101530.png"
+---
+
+![](<{{ site.baseurl }}/img/Pasted image 20240926101530.png>)
 
 - [ ] [[Taart pastry]]
 

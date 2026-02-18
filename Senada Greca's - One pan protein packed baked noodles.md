@@ -1,5 +1,10 @@
+---
+title: Senada Greca's - One pan protein packed baked noodles
+image: "/img/A089A1D4-5D55-4AE0-8845-63335D6F7247_1_105_c.jpeg"
+---
 
-![[A089A1D4-5D55-4AE0-8845-63335D6F7247_1_105_c.jpeg]]
+
+![](<{{ site.baseurl }}/img/A089A1D4-5D55-4AE0-8845-63335D6F7247_1_105_c.jpeg>)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TUGKehlgcPk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
@@ -29,4 +34,4 @@ dash chili flakes
 ---
 2 large portions:
 
-![[Pasted image 20250407095037.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20250407095037.png>)

@@ -1,3 +1,7 @@
+---
+title: Lentil - sweet potato dish
+---
+
 - [ ] 200g yellow lentils
 - [ ] 1 medium sweet potato
 - [ ] green onions

@@ -1,3 +1,8 @@
+---
+title: Baba ghanoush
+image: "/img/Pasted image 20250402144615.png"
+---
+
 ![](<{{ site.baseurl }}/img/Pasted image 20250402144615.png>)
 
 ---

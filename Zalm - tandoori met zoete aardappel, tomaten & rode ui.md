@@ -1,4 +1,9 @@
-![[Pasted image 20240926095907.png]]
+---
+title: Zalm - tandoori met zoete aardappel, tomaten & rode ui
+image: "/img/Pasted image 20240926095907.png"
+---
+
+![](<{{ site.baseurl }}/img/Pasted image 20240926095907.png>)
 
 ± voor 4 personen
 

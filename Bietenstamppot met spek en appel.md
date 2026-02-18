@@ -1,3 +1,7 @@
+---
+title: Bietenstamppot met spek en appel
+---
+
 https://www.ah.nl/allerhande/recept/R-R767114/bietenstamppot-met-spek-en-appel
 
 ± 4 person (±595 kcal/portion)

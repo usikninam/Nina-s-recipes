@@ -1,3 +1,8 @@
+---
+title: Dumplings dough (colorful Chinese dumplings)
+image: "/img/IMG_0587.jpeg"
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9W722Zvr-uc" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 White:

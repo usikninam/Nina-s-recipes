@@ -1,4 +1,13 @@
-theme: minima
-title: Recipes
+title: Nina's Recipes
 baseurl: "/Nina-s-recipes"
 url: "https://usikninam.github.io"
+
+exclude:
+  - README.md
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "recipe"

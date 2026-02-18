@@ -1,4 +1,9 @@
-![[F973F627-1D32-43CE-BE54-B8B211C0270E_1_105_c.jpeg]]
+---
+title: Senada Greca's - High Protein Delicious Chickpea Dish (kale-chickpea-ricotta)
+image: "/img/F973F627-1D32-43CE-BE54-B8B211C0270E_1_105_c.jpeg"
+---
+
+![](<{{ site.baseurl }}/img/F973F627-1D32-43CE-BE54-B8B211C0270E_1_105_c.jpeg>)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U4xfIbVOigw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ---
@@ -16,7 +21,7 @@ For serving: toast few peaces of bread drizzled with olive oil and add more rico
 - [ ] 2 slices (1 pistolet) dark bread
 - [ ] 10g olive oil
 - [ ] 40g ricotta (can easily be double)
-![[8B817575-6061-44A6-A710-983EEC55E124_1_105_c.jpeg]]
+![](<{{ site.baseurl }}/img/8B817575-6061-44A6-A710-983EEC55E124_1_105_c.jpeg>)
 ---
 1. Blend ingredients (without chickpea and water) and pure to a pot (pan)
 2. Mix ricotta into a mixture in the pot.
@@ -24,4 +29,4 @@ For serving: toast few peaces of bread drizzled with olive oil and add more rico
 
 ---
 Calories for entire batch
-![[Pasted image 20250401090901.png]]
+![](<{{ site.baseurl }}/img/Pasted image 20250401090901.png>)

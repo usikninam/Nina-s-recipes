@@ -1,3 +1,8 @@
+---
+title: Gnocchi
+image: "/img/7A44BB87-CF23-49FF-ABEA-9FABE0821D10_1_102_o.jpeg"
+---
+
 ![](<{{ site.baseurl }}/img/7A44BB87-CF23-49FF-ABEA-9FABE0821D10_1_102_o.jpeg>)
 ![](<{{ site.baseurl }}/img/33FC89EF-16F9-4073-9800-2B19C4AD414E_1_105_c.jpeg>)
 

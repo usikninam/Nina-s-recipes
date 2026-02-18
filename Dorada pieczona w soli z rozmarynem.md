@@ -1,3 +1,8 @@
+---
+title: Dorada pieczona w soli z rozmarynem
+image: "/img/Pasted image 20240926102457.png"
+---
+
 ![](<{{ site.baseurl }}/img/Pasted image 20240926102457.png>)
 według Karola Okrasy (“Ryby są super” str.188)
 

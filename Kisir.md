@@ -1,3 +1,8 @@
+---
+title: Kisir
+image: "/img/Pasted image 20250320180546.png"
+---
+
 Sinem Arslan recipe
 
 ![](<{{ site.baseurl }}/img/Pasted image 20250320180546.png>)

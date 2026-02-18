@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% assign display_title = page.title | default: page.name | remove: '.md' %}
+
+<article class="recipe-page">
+  <header class="recipe-header">
+    <a href="{{ site.baseurl }}/" class="back-link">&#8592; All Recipes</a>
+    <h1 class="recipe-title">{{ display_title }}</h1>
+  </header>
+  <div class="recipe-content">
+    {{ content }}
+  </div>
+</article>

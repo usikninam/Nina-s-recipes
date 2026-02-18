@@ -1,4 +1,9 @@
-![[Pasted image 20240926160810.png]]
+---
+title: Pittige kokossoep met schelvis met verse udonnoedels, snijbonen en wortel
+image: "/img/Pasted image 20240926160810.png"
+---
+
+![](<{{ site.baseurl }}/img/Pasted image 20240926160810.png>)
 
 https://www.hellofresh.nl/recipes/pittige-kokossoep-met-schelvis-5f86f6af50ab3e61b04d137e
 
