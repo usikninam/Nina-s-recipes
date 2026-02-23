@@ -1,5 +1,5 @@
 ---
-title: Burger with homemade bun
+title: JoshuaWeissman Burger with homemade bun
 image: "/img/Pasted image 20240926103627.png"
 ---
 
@@ -12,10 +12,11 @@ Burger(with bun) 1st = 654 kcal
 
 **Bun (6st):**
 Tangzhong:
+
 - [ ] 2 tablespoons (20g) bread flour
 - [ ] 2 tablespoons (27g) water
 - [ ] 4 tablespoons (60g) whole milk
-Dough:
+      Dough:
 - [ ] 120g whole milk (30°C)
 - [ ] 1 tablespoons (9g) instant yeast
 - [ ] 320g Bread flour
@@ -24,11 +25,12 @@ Dough:
 - [ ] 1 whole egg
 - [ ] 1 egg yolk
 - [ ] 42g unsalted butter, softened
-Egg wash:
+      Egg wash:
 - [ ] 1 whole egg
 - [ ] splash of whole milk
 
 **Burger Sauce:**
+
 - [ ] 2 onions
 - [ ] 28g unsalted butter
 - [ ] 2 dill pickles, finely diced
@@ -39,12 +41,14 @@ Egg wash:
 - [ ] salt and pepper to taste
 
 **Assembly:**
+
 - [ ] ground beef
 - [ ] cheese
 - [ ] tomato, sliced
 - [ ] iceberg lettuce
 
 **Bun:**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gTGSUYMu6Ns" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 1. Tangzhong: Mix milk, water and bread flour. Continuously mix it on medium hit until it thickens.
 2. Heat milk to 35 degrees and add instant yeast. Let that sit for about 8 minutes.
@@ -60,6 +64,7 @@ Egg wash:
 12. Cut and _**toast**_ them on the pan to make a burger.
 
 **Burger Sauce:**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3f0vm1k2SmI?start=212" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 1. Caramelize onion with butter, salt and a pinch of sugar. It will take 30 minutes.
 2. Mix all sauce ingredients with the onion.
