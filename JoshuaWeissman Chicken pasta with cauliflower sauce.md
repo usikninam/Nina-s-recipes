@@ -5,7 +5,9 @@ image: "/img/JoshuaWeissman Chicken pasta with cauliflower sauce.png"
 
 ![](<{{ site.baseurl }}/img/JoshuaWeissman Chicken pasta with cauliflower sauce.png>)
 
-<iframe width="315" height="560" src="https://youtube.com/shorts/2KyDrqiiZdU?si=I0TA0oKHPnDiGv7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe src="https://www.youtube.com/embed/2KyDrqiiZdU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ---
 
