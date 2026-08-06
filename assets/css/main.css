@@ -462,6 +462,36 @@ a {
   white-space: nowrap;
 }
 
+/* Tables */
+.recipe-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.75rem 0;
+  font-size: 0.95rem;
+}
+
+.recipe-content th,
+.recipe-content td {
+  padding: 0.6rem 1rem;
+  border-bottom: 1px solid var(--border);
+  text-align: center;
+}
+
+.recipe-content th {
+  background: rgba(199, 75, 53, 0.08);
+  font-weight: 700;
+  font-family: var(--serif);
+  border-bottom: 2px solid var(--border);
+}
+
+.recipe-content td:first-child {
+  text-align: left;
+}
+
+.recipe-content tr:last-child td {
+  border-bottom: none;
+}
+
 /* Source URL lines */
 .recipe-content p:has(> a:only-child) {
   font-size: 0.8rem;

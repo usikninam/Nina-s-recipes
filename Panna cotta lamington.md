@@ -4,7 +4,8 @@ image: "/img/Lamington_mine.jpeg"
 ---
 
 ![](<{{ site.baseurl }}/img/Lamington_mine.jpeg>)
-
+![](<{{ site.baseurl }}/img/IMG_9010.png>)
+![](<{{ site.baseurl }}/img/e5c6f01f-d0f3-4440-b0e1-4919390cb1c4.JPG>)
 ![](<{{ site.baseurl }}/img/Lamington_Flour_and_Stone_Sydney.jpeg>)
 
 ---
