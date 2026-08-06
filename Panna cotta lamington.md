@@ -22,11 +22,19 @@ Per piece (1/8): ~1,174 kcal • 13.2 g protein • 80.5 g fat • 102.3 g carbs
 
 ---
 
+Calories (with Milbona Culinaire room creme 15% and 200g of coconut):
+
+Whole recipe: ~7,370 kcal • 110 g protein • 420 g fat • 806 g carbs
+Per piece (1/8): ~921 kcal • 13.8 g protein • 52.4 g fat • 100.8 g carbs
+Per piece (1/12): ~614 kcal • 9.2 g protein • 35 g fat • 67.2 g carbs
+
+---
+
 ### Sponge (deep 30x20cm baking sheet)
 
 - [ ] 5 eggs
 - [ ] 125 g sugar
-- [ ] 165 g self-raising flour
+- [ ] 165 g self-raising flour (165g wheat flour + 11g baking powder)
 - [ ] 25 g unsalted butter, melted
 
 ---
@@ -34,7 +42,8 @@ Per piece (1/8): ~1,174 kcal • 13.2 g protein • 80.5 g fat • 102.3 g carbs
 ### Panna cotta layer
 
 - [ ] 2 titanium-strength gelatine leaves (= 2½ Dr. Oetker)
-- [ ] 800 ml pure cream (35%, slaagroom, too heavy dessert, use lighter)
+- [ ] 800 ml pure cream (35% slaagroom was too heavy, use Milbona Culinaire room creme 15%
+https://www.lidl.nl/p/kookroom/p69686?srsltid=AfmBOoqRtCHhfcnubO5umWiC385gse708-OOhVdRrbW5AFV5nJy9CZdm - soft and creamy, a bit harder to cover with chocolate, but doable)
 - [ ] 80 g sugar
 - [ ] 2 tsp vanilla extract
 
@@ -43,14 +52,14 @@ Per piece (1/8): ~1,174 kcal • 13.2 g protein • 80.5 g fat • 102.3 g carbs
 ### Berry compote
 
 - [ ] 250 g mixed frozen berries
-- [ ] 100 g caster sugar
+- [ ] 100 g caster sugar (can be more sour, try with 80g)
 - [ ] zest of 1 orange
 
 ---
 
 ### Chocolate coating
 
-- [ ] 250 g dark chocolate (>= 55%)
+- [ ] 250 g dark chocolate (>= 55%, FinCarre pure chocolate https://www.lidl.nl/p/2-pack-pure-chocolade/p27527?srsltid=AfmBOorskqFDSseoZynarPrFtj89yX-v1_5INN6k4VHS4Q8GCMs76uTq)
 - [ ] 100 ml milk
 - [ ] 50 g unsalted butter
 - [ ] 100 g icing sugar
@@ -58,6 +67,7 @@ Per piece (1/8): ~1,174 kcal • 13.2 g protein • 80.5 g fat • 102.3 g carbs
 ---
 
 ### To coat
+(for this recipe 200g total is needed)
 
 - [ ] 100 g desiccated coconut
 - [ ] 100 g long-thread coconut
