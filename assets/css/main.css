@@ -395,10 +395,8 @@ a {
 }
 
 .recipe-content ul li {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.75rem;
-  padding: 0.5rem 0;
+  position: relative;
+  padding: 0.5rem 0 0.5rem 1.75rem;
   border-bottom: 1px solid var(--border);
   font-size: 0.95rem;
   line-height: 1.55;
@@ -409,10 +407,11 @@ a {
 }
 
 .recipe-content ul li input[type="checkbox"] {
-  flex-shrink: 0;
+  position: absolute;
+  left: 0;
+  top: 0.65rem;
   width: 1rem;
   height: 1rem;
-  margin-top: 0.25rem;
   accent-color: var(--accent);
   cursor: pointer;
 }

@@ -85,7 +85,6 @@
       });
 
       updateCount(cards.length);
-      window.debugIdx = idx; // TEMP — remove after debugging
 
       // Run any pre-filled query (e.g. browser autocomplete)
       if (input.value) filterCards(input.value);
