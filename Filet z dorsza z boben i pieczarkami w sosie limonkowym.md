@@ -6,7 +6,8 @@ image: "/img/Pasted image 20250401092255.png"
 ![](<{{ site.baseurl }}/img/Pasted image 20250401092255.png>)
 ![](<{{ site.baseurl }}/img/Pasted image 20250401092226.png>)
 
-https://www.instagram.com/p/BnCDFJ8hVYe/ 
+<https://www.instagram.com/p/BnCDFJ8hVYe/>
+
 ---
 
 DORSZ W MARYNACIE

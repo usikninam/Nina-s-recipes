@@ -5,7 +5,7 @@ image: "/img/Pasted image 20240926160055.png"
 
 ![](<{{ site.baseurl }}/img/Pasted image 20240926160055.png>)
 
-https://preppykitchen.com/creme-brulee/
+<https://preppykitchen.com/creme-brulee/>
 
 4 white forms exactly:
 

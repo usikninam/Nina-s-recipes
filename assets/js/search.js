@@ -61,6 +61,17 @@
     updateCount(visible);
   }
 
+  // Override lunr.trimmer with a Unicode-aware regex so Cyrillic, accents, and
+  // special characters aren't stripped
+  lunr.trimmer = function (token) {
+    return token.update(function (s) {
+      return s
+        .replace(/^[^\p{L}\p{N}]+/u, '')
+        .replace(/[^\p{L}\p{N}]+$/u, '');
+    });
+  };
+  lunr.Pipeline.registerFunction(lunr.trimmer, 'trimmer');
+
   // Load Lunr index
   fetch(baseurl + '/search.json')
     .then(function (r) { return r.json(); })

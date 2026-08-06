@@ -5,7 +5,7 @@ image: "/img/Pasted image 20240926101443.png"
 
 ![](<{{ site.baseurl }}/img/Pasted image 20240926101443.png>)
 
-https://www.instagram.com/p/Bp2KL8GhGKO/ 
+[stockholm_ira instagram](https://www.instagram.com/p/Bp2KL8GhGKO/)
 
 - [ ] 4 куриные грудки
 - [ ] 140 грамм бекона

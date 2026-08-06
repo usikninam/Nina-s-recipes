@@ -5,7 +5,7 @@ image: "/img/Pasted image 20240926101530.png"
 
 ![](<{{ site.baseurl }}/img/Pasted image 20240926101530.png>)
 
-- [ ] [[Taart pastry]]
+- [ ] [Taart pastry]({{ site.baseurl }}/Taart%20pastry.html)
 
 Filling:
 - [ ] 3 egg yolks (large)

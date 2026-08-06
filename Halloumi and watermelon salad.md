@@ -5,9 +5,9 @@ image: "/img/Pasted image 20240926154852.png"
 
 ![](<{{ site.baseurl }}/img/Pasted image 20240926154852.png>)
 
-https://www.olivemagazine.com/recipes/vegetarian/halloumi-and-watermelon-salad/
+<https://www.olivemagazine.com/recipes/vegetarian/halloumi-and-watermelon-salad/>
 
-± 8 s**erves**
+± 8 serves
 
 - [ ] 500g watermelon, peeled and cut into thin wedges
 - [ ] 2 x 250g packs halloumi, thinly sliced

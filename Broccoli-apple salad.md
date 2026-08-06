@@ -4,7 +4,7 @@ image: "/img/Pasted image 20240926104215.png"
 ---
 
 ![](<{{ site.baseurl }}/img/Pasted image 20240926104215.png>)
-https://www.cookingclassy.com/broccoli-apple-salad/
+<https://www.cookingclassy.com/broccoli-apple-salad/>
 
 350 g broccoli
 1 apple

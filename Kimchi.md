@@ -2,7 +2,7 @@
 title: Kimchi
 ---
 
-https://www.joshuaweissman.com/post/kimchi
+<https://www.joshuaweissman.com/post/kimchi>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aXhJcdXPyYI" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 

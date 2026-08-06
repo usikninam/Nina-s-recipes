@@ -5,7 +5,7 @@ image: "/img/Pasted image 20240926160810.png"
 
 ![](<{{ site.baseurl }}/img/Pasted image 20240926160810.png>)
 
-https://www.hellofresh.nl/recipes/pittige-kokossoep-met-schelvis-5f86f6af50ab3e61b04d137e
+[HelloFresh recipe](https://www.hellofresh.nl/recipes/pittige-kokossoep-met-schelvis-5f86f6af50ab3e61b04d137e)
 
 2 stuks knoflookteen
 200 g snijbonen

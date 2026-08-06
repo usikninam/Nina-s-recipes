@@ -42,8 +42,7 @@ Per piece (1/12): ~614 kcal • 9.2 g protein • 35 g fat • 67.2 g carbs
 ### Panna cotta layer
 
 - [ ] 2 titanium-strength gelatine leaves (= 2½ Dr. Oetker)
-- [ ] 800 ml pure cream (35% slaagroom was too heavy, use Milbona Culinaire room creme 15%
-https://www.lidl.nl/p/kookroom/p69686?srsltid=AfmBOoqRtCHhfcnubO5umWiC385gse708-OOhVdRrbW5AFV5nJy9CZdm - soft and creamy, a bit harder to cover with chocolate, but doable)
+- [ ] 800 ml pure cream (35% slaagroom was too heavy, use [Milbona Culinaire room creme 15%](https://www.lidl.nl/p/kookroom/p69686?srsltid=AfmBOoqRtCHhfcnubO5umWiC385gse708-OOhVdRrbW5AFV5nJy9CZdm) - soft and creamy, a bit harder to cover with chocolate, but doable)
 - [ ] 80 g sugar
 - [ ] 2 tsp vanilla extract
 
@@ -59,7 +58,7 @@ https://www.lidl.nl/p/kookroom/p69686?srsltid=AfmBOoqRtCHhfcnubO5umWiC385gse708-
 
 ### Chocolate coating
 
-- [ ] 250 g dark chocolate (>= 55%, FinCarre pure chocolate https://www.lidl.nl/p/2-pack-pure-chocolade/p27527?srsltid=AfmBOorskqFDSseoZynarPrFtj89yX-v1_5INN6k4VHS4Q8GCMs76uTq)
+- [ ] 250 g dark chocolate (>= 55%, [FinCarre pure chocolate](https://www.lidl.nl/p/2-pack-pure-chocolade/p27527?srsltid=AfmBOorskqFDSseoZynarPrFtj89yX-v1_5INN6k4VHS4Q8GCMs76uTq))
 - [ ] 100 ml milk
 - [ ] 50 g unsalted butter
 - [ ] 100 g icing sugar

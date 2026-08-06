@@ -2,9 +2,11 @@
 title: Bietenstamppot met spek en appel
 ---
 
-https://www.ah.nl/allerhande/recept/R-R767114/bietenstamppot-met-spek-en-appel
+[AH Rode bieten stamppot](https://www.ah.nl/allerhande/recept/R-R767114/bietenstamppot-met-spek-en-appel)
 
 ± 4 person (±595 kcal/portion)
+
+---
 
 - [ ] 1.5 kg kruimige aardappel
 - [ ] 50 g ongezouten roomboter
@@ -12,6 +14,8 @@ https://www.ah.nl/allerhande/recept/R-R767114/bietenstamppot-met-spek-en-appel
 - [ ] 1 ui
 - [ ] 500 g gekookte bietjes
 - [ ] 1 Royal Gala appel
+
+---
 
 1. Schil de aardappelen en snijd ze in gelijke stukken. Kook in water met eventueel zout in 20 min. gaar.
 2. Verhit ondertussen 25 g boter in een koekenpan en bak de spekreepjes in 6 min. knapperig. Voeg de ui toe en bak 4 min. mee.
