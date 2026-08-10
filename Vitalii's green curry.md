@@ -1,18 +1,11 @@
 ---
-title: Kerala Garnalencurry - Vitalii's green curry
+title: Vitalii's - Kerala Garnalencurry
 image: "/img/vitalii-green-curry.jpeg"
 ---
 
-# Kerala Garnalencurry
+![](<{{ site.baseurl }}/img/vitalii-green-curry.jpeg>)
 
-Deze smaakvolle garnalencurry in kokosmelk met ingrediënten uit de voorraadkast is een perfect gerecht voor doordeweekse avonden.  
-Ik maak deze curry voor mezelf als ik een avond alleen ben (zonder mijn man die garnalen uit de diepvries voor je gaat koken), dan hoef je op weg naar huis alleen maar een paar verse ingrediënten te halen.
-
----
-
-**Voor:** 2–3  
-**Voorbereiding:** 10 minuten  
-**Oven:** 30 minuten
+voor: 2–3 personen · voorbereiding: 10 minuten · oven: 30 minuten
 
 ## Ingrediënten
 
@@ -54,10 +47,6 @@ Ik maak deze curry voor mezelf als ik een avond alleen ben (zonder mijn man die 
 
 4. Proef en breng op smaak met het limoensap en eventueel wat extra zout. Strooi de verse koriander en rode chilipeper eroverheen. Dien met basmatirijst en/of naan.
 
----
-
 ## Variatietip
 
 Als je liever dikkere curry wilt, pak kokosroom van 200 ml in plaats van kokosmelk. De smaak is niet hetzelfde als ik een koop geen kokoscrème, die is alleen te gebruiken als knuppel of deurstop.
-
----

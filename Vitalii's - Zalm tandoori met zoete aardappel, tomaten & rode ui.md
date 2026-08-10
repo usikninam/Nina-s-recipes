@@ -1,12 +1,22 @@
 ---
-title: Zalm - tandoori met zoete aardappel, tomaten & rode ui
+title: Vitalii's - Zalm tandoori met zoete aardappel, tomaten & rode ui
 image: "/img/Pasted image 20240926095907.png"
 ---
 
 ![](<{{ site.baseurl }}/img/Pasted image 20240926095907.png>)
 
+## Ingrediënten
+
 ± voor 4 personen
 
+- [ ] 650 g zoete aardappels, geschild en in blokjes van 1 cm
+- [ ] 2 el plantaardige olie
+- [ ] 1 tl gemalen komin
+- [ ] 1 tl zeezout
+- [ ] 400 g kerstomaten aan de tros
+- [ ] 1 rode ui, grof gesneden
+
+Dressing:
 - [ ] 3 teentjes knoflook, geraspt
 - [ ] 4 cm verse gember, geraspt
 - [ ] 75 ml yoghurt, plus extra voor erbij
@@ -14,17 +24,9 @@ image: "/img/Pasted image 20240926095907.png"
 - [ ] 2 kleine tl gemalen komijn
 - [ ] 1 kleine tI kurkuma
 - [ ] 1 tl gerookte-paprikapoeder
-- [ ] ½ tl mild chilipoeder
+- [ ] 1/2 tl mild chilipoeder
 - [ ] zeezout
 - [ ] 4 zalmfilets
-
-ZOETE AARDAPPELS
-- [ ] 650 g zoete aardappels, geschild en in blokjes van 1 cm
-- [ ] 2 el plantaardige olie
-- [ ] 1 tl gemalen komin
-- [ ] 1 tl zeezout
-- [ ] 400 g kerstomaten aan de tros
-- [ ] 1 rode ui, grof gesneden
 
 1. Meng de knoflook, gember, yoghurt, citroenrasp, alle specerijen en wat zout en draai de zalmfilets voorzichtig door het mengsel. (Als je dit gerecht van tevoren klaarmaakt, dan kan het nu marineren in de koelkast.)
 2. Verwarm de oven voor tot 230 °C.
