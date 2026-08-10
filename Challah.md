@@ -9,7 +9,7 @@ image: "/img/IMG_9052.png"
 ![](<{{ site.baseurl }}/img/IMG_5239.png>)
 ![](<{{ site.baseurl }}/img/IMG_9052.png>)
 
-<iframe width="560" height="315" src="https://youtu.be/REB52hMF5Zo" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/REB52hMF5Zo" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -22,22 +22,31 @@ image: "/img/IMG_9052.png"
 - [ ] 60ml odorless vegetable oil or butter
 
 for eggwash:
-- [ ] 1 egg
+- [ ] 1 egg (use only yolk for nice brown colour)
 - [ ] 1tbsp milk
+
+- [ ] (optional) for sprincling: sesamy seads, kumin, etc.
 
 ---
 
-1. Mix warm water with yeast, add 2 tbsp. Set aside for 15min.
-2. In the bowl (big, that fits whole dough + rising) crack eggs, blend just a bit
--
--
--
--
--
--
-[TODO]
-Bake braids need at 356 F - 30 ... 35 minutes
+1. Dough starter: mix warm water with yeast, add 2 tbsp. Set aside for 15min.
+2. In the bowl (big, that fits whole dough + space for rising) crack eggs, blend just a bit.
+3. Add salt and sugar, mix.
+4. Add oil and starter (from step 1).
+5. Add flour. Mix will be very sticky, but don't add more flour it will get unsticky after some knitting.
+6. Knit the dougn for 5-10min.
+7. Set aside to rise for 2h in a bowl slightly spreaded with oil.
+8. Split the dough in two (for two loafs, but you can just do one big loaf or more small ones), and each in 4 or 6 even peaces for making a braid.
+9. Flatten each peace and roll it like a sigar tightly. Set aside for 10min.
+10. Roll each peace to for long cylinders you are going to braid. If rolling is difficult make your palms slightly wet for dough to not to slip.
+11. Braid loafs and put it on parchment paper.
+12. If you are going to sprincle with something do eggwash now (otherwise right before baking). Mix egg yolk and splash of milk.
+13. Spread eggwash on surface and sprincle with sesamy seeds generously.
+14. Set aside for 2h to rise. (Dont rush here, otherwise you dough will crack while baking. It might look a bit small after rising, but it will increase in size significantly while baking.)
+15. Bake in preheated oven to 180ºC for 30-35min.
+16. Let it cool down before cutting
 
+---
 
 | Ingredient | Amount | Calories | Protein |
 |---|---|---|---|
