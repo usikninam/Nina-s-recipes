@@ -27,3 +27,13 @@ image: "/img/JoshuaWeissman Chicken pasta with cauliflower sauce.png"
 4. Boil pasta.
 5. Mix boiled pasta with cauliflower sauce.
 6. Serve with cut chicken and graded parmigiano.
+
+---
+
+| Ingredient          | Amount                | kcal    | Protein (g) |
+| ------------------- | --------------------- | ------- | ----------- |
+| Cauliflower         | 750 g                 | 188     | 14.3        |
+| Grana Padano        | 44 g                  | 172     | 14.5        |
+| Halfvolle melk      | 200 ml                | 94      | 6.8         |
+| **Total**           | **1085 g (finished)** | **454** | **35.6**    |
+| **Per 100 g sauce** | **100 g**             | **42**  | **3.3**     |

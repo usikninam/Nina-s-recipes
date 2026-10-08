@@ -28,3 +28,21 @@ image: "/img/Pasted image 20240926101443.png"
 8. Достаем, посыпаем арахисом (соленым и поджаренным).
 9. Ставим еще на 5-10 мин.
 10. Подавать с рисом.
+
+---
+
+# Chicken, bacon and banana bake: calories and protein
+
+Version: chicken 400 g, cream 7% fat, peanuts 50 g. Rice not included.
+
+| Ingredient                       | Amount       | kcal       | Protein    |
+| -------------------------------- | ------------ | ---------- | ---------- |
+| Chicken breast (raw)             | 400 g        | 480        | 90 g       |
+| Bacon (raw)                      | 140 g        | 550        | 18 g       |
+| Bananas, peeled                  | 2 (~230 g)   | 205        | 2.5 g      |
+| Cream (7% fat)                   | 250 ml       | 230        | 7.5 g      |
+| Chili sauce (sriracha + ketchup) | ~100 g       | 100        | 1 g        |
+| Peanuts                          | 50 g         | 295        | 13 g       |
+| Olive oil (assumed)              | 1 tbsp, 13 g | 115        | 0 g        |
+| **Total**                        |              | **~1,975** | **~132 g** |
+| **Per 1/4**                      |              | **~495**   | **~33 g**  |

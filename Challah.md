@@ -22,6 +22,7 @@ image: "/img/IMG_9052.png"
 - [ ] 60ml odorless vegetable oil or butter
 
 for eggwash:
+
 - [ ] 1 egg (use only yolk for nice brown colour)
 - [ ] 1tbsp milk
 
@@ -29,7 +30,7 @@ for eggwash:
 
 ---
 
-1. Dough starter: mix warm water with yeast, add 2 tbsp. Set aside for 15min.
+1. Dough starter: mix warm water with yeast, add flour (2 tbsp). Set aside for 15min.
 2. In the bowl (big, that fits whole dough + space for rising) crack eggs, blend just a bit.
 3. Add salt and sugar, mix.
 4. Add oil and starter (from step 1).
@@ -48,18 +49,35 @@ for eggwash:
 
 ---
 
-| Ingredient | Amount | Calories | Protein |
-|---|---|---|---|
-| White wheat flour | 470 g | ~1,710 | ~47 g |
-| Water | 60 ml | 0 | 0 g |
-| Dry yeast | 6 g | ~20 | ~2.4 g |
-| Eggs (dough) | 3 large | ~215 | ~19 g |
-| Salt | 8 g | 0 | 0 g |
-| Sugar | 70 g | ~270 | 0 g |
-| Vegetable oil, odorless | 60 ml (~55 g) | ~485 | 0 g |
-| Egg wash (1 egg + 1 tbsp milk) || ~80 | ~6.5 g |
-| **Total (2 loafs)** || **~2,780** | **~75 g** |
-| Per loaf (of 2) || ~1,390 | ~37.5 g |
-| **Per slice (10 slices/loaf)** || **~139** | **~3.75 g** |
+| Ingredient                     | Amount        | Calories   | Protein     |
+| ------------------------------ | ------------- | ---------- | ----------- |
+| White wheat flour              | 470 g         | ~1,710     | ~47 g       |
+| Water                          | 60 ml         | 0          | 0 g         |
+| Dry yeast                      | 6 g           | ~20        | ~2.4 g      |
+| Eggs (dough)                   | 3 large       | ~215       | ~19 g       |
+| Salt                           | 8 g           | 0          | 0 g         |
+| Sugar                          | 70 g          | ~270       | 0 g         |
+| Vegetable oil, odorless        | 60 ml (~55 g) | ~485       | 0 g         |
+| Egg wash (1 egg + 1 tbsp milk) |               | ~80        | ~6.5 g      |
+| **Total (2 loafs)**            |               | **~2,780** | **~75 g**   |
+| Per loaf (of 2)                |               | ~1,390     | ~37.5 g     |
+| **Per slice (10 slices/loaf)** |               | **~139**   | **~3.75 g** |
 
 ---
+
+![](<{{ site.baseurl }}/img/11E7D512-3A69-4003-9A6F-6549D7205B40_1_105_c.jpeg>)
+![](<{{ site.baseurl }}/img/D4C77D3F-D7CA-42AC-9C04-D32CC9A54418_1_105_c.jpeg>)
+
+//TODO:
+
+Try white decoration:
+
+<iframe width="1470" height="641" src="https://www.youtube.com/embed/H-BQFf0ikGg" title="БЕЛОЕ ТЕСТО ДЛЯ КАРАВАЯ! УКРАШЕНИЕ КАРАВАЯ!ТОПЕРЫ!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+make 🌾 out of it
+
+<iframe width="402" height="714" src="https://www.youtube.com/embed/gJZSGqkTDko" title="🌾КОЛОС." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Try another braiding:
+
+<iframe width="402" height="714" src="https://www.youtube.com/embed/_ysWTTVcHNk" title="Can&#39;t Braid Challah? Just Don&#39;t and Try These 4 Shapes Instead" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
